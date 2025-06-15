@@ -28,12 +28,14 @@ Blurred the shadow slightly to make it more natural.
 
 Adjusted brightness and contrast for better harmony between subject and background.
 
-🖼️ Tools Used
-pixelcut.ai
+🖼️ Tools Used :
 
-Photopea
+pixelcut.ai for background removal
+
+Photopea (mostly used for all purposes)
 
 Contrast/Brightness Adjustment
 
 Drop Shadow and Gaussian Blur (Photopea)
 
+https://letsenhance.io for upscaling image
